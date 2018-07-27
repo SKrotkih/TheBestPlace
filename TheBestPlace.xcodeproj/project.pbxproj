@@ -195,10 +195,6 @@
 		7F59B9E11BB55C5C00FB5101 /* FSOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F59B9D51BB55C5C00FB5101 /* FSOperation.m */; };
 		7F59B9E21BB55C5C00FB5101 /* FSWebLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F59B9D71BB55C5C00FB5101 /* FSWebLogin.m */; };
 		7F59B9E31BB55C5C00FB5101 /* FSWebLogin.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F59B9D81BB55C5C00FB5101 /* FSWebLogin.xib */; };
-		7F59B9E41BB55C5C00FB5101 /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F59B9D91BB55C5C00FB5101 /* pin.png */; };
-		7F59B9E51BB55C5C00FB5101 /* pin@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F59B9DA1BB55C5C00FB5101 /* pin@2x.png */; };
-		7F59B9E61BB55C5C00FB5101 /* poweredByFoursquare_gray.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F59B9DB1BB55C5C00FB5101 /* poweredByFoursquare_gray.png */; };
-		7F59B9E71BB55C5C00FB5101 /* poweredByFoursquare_gray@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F59B9DC1BB55C5C00FB5101 /* poweredByFoursquare_gray@2x.png */; };
 		7F59B9F01BB55CAA00FB5101 /* MFSideMenuContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F59B9EB1BB55CAA00FB5101 /* MFSideMenuContainerViewController.m */; };
 		7F59B9F11BB55CAA00FB5101 /* MFSideMenuShadow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F59B9ED1BB55CAA00FB5101 /* MFSideMenuShadow.m */; };
 		7F59B9F21BB55CAA00FB5101 /* UIViewController+MFSideMenuAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F59B9EF1BB55CAA00FB5101 /* UIViewController+MFSideMenuAdditions.m */; };
@@ -2156,7 +2152,6 @@
 				7FFD393318FD3DE40079909B /* rate3_select@2x.png in Resources */,
 				7F04DA4D1909E62F0089C4A1 /* bg_navbar_home.png in Resources */,
 				7FFD392918FD3DE40079909B /* icon-photo@2x.png in Resources */,
-				7F59B9E61BB55C5C00FB5101 /* poweredByFoursquare_gray.png in Resources */,
 				7F25ACBE1940C0CE001B2AC7 /* ic_logout.png in Resources */,
 				7F24FA56194870250043F50E /* ic_menu_settings_disable@2x.png in Resources */,
 				7FFA158A1901384E00BD34BC /* profile-icon@2x.png in Resources */,
@@ -2190,7 +2185,6 @@
 				7FFA15871901384E00BD34BC /* icon_mobile.png in Resources */,
 				7FFD392A18FD3DE40079909B /* icon-twitter-hover.png in Resources */,
 				7F32C5671935887100B87107 /* close_button.png in Resources */,
-				7F59B9E41BB55C5C00FB5101 /* pin.png in Resources */,
 				7F25ACB01940B4FD001B2AC7 /* ic_feedbacks.png in Resources */,
 				7FFA157519012F7A00BD34BC /* email_password.png in Resources */,
 				7F1F249C18E448660056669E /* add_photo.png in Resources */,
@@ -2198,14 +2192,12 @@
 				7FC2529E1900E84700C2A98E /* lock-icon.png in Resources */,
 				7F27EF2218EFD2440028FF43 /* distance@2x.png in Resources */,
 				7F2DB63118E3E851002A2C80 /* icon_main_menu_select.png in Resources */,
-				7F59B9E51BB55C5C00FB5101 /* pin@2x.png in Resources */,
 				7F24FA4619486D650043F50E /* ic_friend@2x.png in Resources */,
 				7F1F249918E446590056669E /* checkbox@2x.png in Resources */,
 				7F27C5BB1931C875009A02C6 /* RedPin.png in Resources */,
 				7F0C6148191209BF00A7F745 /* bg_image_round_150.png in Resources */,
 				7FF232B0190A556E001EC227 /* menu_language@2x.png in Resources */,
 				7FF7875E18F5574D004A50B1 /* star_rate_white.png in Resources */,
-				7F59B9E71BB55C5C00FB5101 /* poweredByFoursquare_gray@2x.png in Resources */,
 				7FA5BFC119153AA400230AF0 /* bgTextField@2x.png in Resources */,
 				7F29DCEA193C942C0089FF28 /* ic_dislike_big@2x.png in Resources */,
 				7F2DB62818E3E807002A2C80 /* icon_settings_menu_select@x2.png in Resources */,

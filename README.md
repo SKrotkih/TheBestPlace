@@ -31,22 +31,24 @@ On Settings menu item, you can do 'Log Out' and 'Change Password'.
 
 ## Implements
 
+The App was developed and published on the AppStore in 2014. Used Foursquare 2. 
+
 ## Requirements
 
-- Xcode 7
-- iOS 8
+- Xcode 9
+- iOS 11
 
 ## Author
 
 Sergey Krotkih 
 - http://stackoverflow.com/users/1709337/stosha
 - https://www.linkedin.com/pub/sergey-krotkih/20/6a4/274
-- http://sergey-krotkih.blogspot.com
 
 ## License
 
 ## Update
 
+- 27.07.2018: Update for Xcode 9.4, iOS 11. Convert to Swift 3. 
 - 28.08.2015: Changed font by default on all screens
 - 30.08.2015: Added editing image feature for camera and library  
 
